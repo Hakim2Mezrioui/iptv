@@ -1,0 +1,23 @@
+.backGround {
+    background-color: rgb(30, 30, 30);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+
+.form-group {
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5em;
+    margin-block: 1em;
+    border-radius: .5em;
+}
+
+.form-auth {
+    background: white;
+    width: fit-content;
+    padding: 1em 2em;
+}

@@ -1,0 +1,13 @@
+.message {
+    width: 40em;
+    border: 1px solid rgb(83, 109, 136);
+    margin: auto;
+    text-align: justify;
+    padding: .5em;
+    border-radius: .5em;
+    margin-top: 3em;
+}
+
+.message p {
+    padding-left: 1em;
+}

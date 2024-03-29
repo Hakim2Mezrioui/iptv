@@ -1,0 +1,15 @@
+.card {
+    box-shadow: 0 0 10px;
+    width: 15em;
+    border-radius: .2em;
+    padding: .3em 1em;
+}
+
+.card h6 {
+    color: red;
+    font-weight: bold;
+}
+
+.card span {
+    display: flex;
+}
