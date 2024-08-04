@@ -6,9 +6,9 @@ import Swal from "sweetalert2";
 
 let Admin = () => {
     const ctx = useContext(IptvContext);
-    const [usernameVal, setUsernameVal] = useState();
+    const [emailVal, setemailVal] = useState();
     const [passwordVal, setpasswordVal] = useState();
-    const username = useRef();
+    const email = useRef();
     const password = useRef();
     const navigate = useNavigate();
 
@@ -20,13 +20,13 @@ let Admin = () => {
 
 
     const onCheckValues = () => {
-        setUsernameVal(username.current.value);
+        setemailVal(email.current.value);
         setpasswordVal(password.current.value);
     }
 
     const onSubmitHandler = (e) => {
         e.preventDefault();
-        if(username.current.value === "" || password.current.value === "") {
+        if(email.current.value === "" || password.current.value === "") {
             Swal.fire({
                 icon: "warning",
                 text: "You should insert your email and your passowrd"
@@ -54,8 +54,8 @@ let Admin = () => {
             <form className={classes["form-auth"]} onSubmit={onSubmitHandler}>
                 <span></span>
                 <div className={classes["form-group"]}>
-                    <input id="username" onBlur={onCheckValues} ref={username} />
-                    <label htmlFor="username" className={`${usernameVal === "" ? "" : classes.notEmpty}`}>Username</label>
+                    <input id="email" onBlur={onCheckValues} ref={email} />
+                    <label htmlFor="email" className={`${emailVal === "" ? "" : classes.notEmpty}`}>Email</label>
                 </div>
                 <div className={classes["form-group"]}>
                     <input onBlur={onCheckValues} id="password" type="password" ref={password} />
