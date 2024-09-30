@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f29d970.css",
+    "main.js": "/static/js/main.632f55ff.js",
+    "static/js/787.a0afb5c9.chunk.js": "/static/js/787.a0afb5c9.chunk.js",
+    "static/media/introFoot.mp4": "/static/media/introFoot.f4f04b2bf12abc3c3758.mp4",
+    "static/media/watch3.jpg": "/static/media/watch3.091180084d64ad944545.jpg",
+    "static/media/contact.jpg": "/static/media/contact.ba4ab0b37254e80568e1.jpg",
+    "static/media/logo.png": "/static/media/logo.aea812a7c9c976ca2463.png",
+    "static/media/watch2.jpg": "/static/media/watch2.b65a94c504b60ab957c0.jpg",
+    "static/media/casaDePapel.jpg": "/static/media/casaDePapel.92712d97870bd796e999.jpg",
+    "static/media/watch1.jpg": "/static/media/watch1.80434cb2de19e3c5ecf9.jpg",
+    "static/media/ironMan.jpg": "/static/media/ironMan.b53d058d413e063f518f.jpg",
+    "static/media/batman.jpg": "/static/media/batman.9028e1aeecb9c60e9aac.jpg",
+    "static/media/avatar.jpg": "/static/media/avatar.089fdf026a40c7d5c8fe.jpg",
+    "static/media/reacher.jpg": "/static/media/reacher.130d1c1cce149627ea9b.jpg",
+    "static/media/peakyBlinders.jpg": "/static/media/peakyBlinders.fcb3316cdbdafe0f4cc8.jpg",
+    "static/media/blackList.jpg": "/static/media/blackList.83754ae45fc8792a5f00.jpg",
+    "static/media/myName.jpg": "/static/media/myName.3e012076a302f5b0366f.jpg",
+    "static/media/jocker.jpg": "/static/media/jocker.9f50c31f5629dc260c0d.jpg",
+    "static/media/bbc.png": "/static/media/bbc.0c358768a6d36b267c04.png",
+    "static/media/skySport.png": "/static/media/skySport.0faab6e24a23414a5209.png",
+    "static/media/Netflix-logo.png": "/static/media/Netflix-logo.a3092e10ce2527646427.png",
+    "static/media/nba.png": "/static/media/nba.a514b1b333dfb2f4e7c0.png",
+    "static/media/bienSport.png": "/static/media/bienSport.a5dd11da9f3ec47accb7.png",
+    "static/media/hbo.png": "/static/media/hbo.9afadff8d2f5d1900c1f.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.6f29d970.css.map": "/static/css/main.6f29d970.css.map",
+    "main.632f55ff.js.map": "/static/js/main.632f55ff.js.map",
+    "787.a0afb5c9.chunk.js.map": "/static/js/787.a0afb5c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f29d970.css",
+    "static/js/main.632f55ff.js"
+  ]
+}
